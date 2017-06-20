@@ -1,0 +1,38 @@
+{
+  "name": "github_hook",
+  "description": "github_hook",
+  "type":"github_hook",
+  "keywords": ["github_hook", "hook","github"],
+  "license": "MIT",
+  "homepage": "https://github.com/fengshiyou/github_hook.git",
+  "authors": [
+    {
+      "name": "fsy",
+      "email": "501453944@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "laravel-dev-common/union-config":"*"
+  },
+  "replace": {
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "files": [
+    ],
+    "psr-4": {
+      "Github\\Hook\\": "src/"
+    }
+  },
+  "suggest": {
+  },
+  "minimum-stability": "dev",
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
