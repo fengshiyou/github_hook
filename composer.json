@@ -1,7 +1,7 @@
 {
   "name": "fsy_laravel/github_hook",
   "description": "github_hook",
-  "type":"github_hook",
+  "type":"github-hook",
   "keywords": ["github_hook", "hook","github"],
   "license": "MIT",
   "homepage": "https://github.com/fengshiyou/github_hook.git",
