@@ -1,5 +1,5 @@
 {
-  "name": "github_hook",
+  "name": "fsy_laravel/github_hook",
   "description": "github_hook",
   "type":"github_hook",
   "keywords": ["github_hook", "hook","github"],
